@@ -10,11 +10,11 @@ body {
 }
 
 button {
-    background-color: #0000ff;
+    background-color: #808080;
     color: black;
     font-family: "Bai Jamjuree", sans-serif;
-    padding: 10px 20px;
-    margin: 10px;
+    padding: 11px 22px;
+    margin: 15px;
     border: none;
     cursor: pointer;
 }
